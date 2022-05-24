@@ -17,26 +17,26 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
+global.owner = ['6287700281304','6287700281304','6287700281304']
+global.premium = ['6287700281304']
+global.ownernomer = '6287700281304'
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
-global.botname = 'Bot 𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
-global.footer = '𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
+global.ownername = 'Arwes'
+global.botname = 'Kurokawa Zaka'
+global.footer = 'Arwes'
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 global.youtube = 'https://youtube.com/channel/UCClQKwFKgIAiqJPgPpzGjmA'
-global.ig = 'https://instagram.com/its.salma._?igshid=YmMyMTA2M2Y='
+global.ig = 'https://instagram.com/yougod.12'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'salmadiah15@gmail.com'
+global.myweb = 'https://instagram.com/yougod.12'
+global.email = 'arwesputra@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Bot 𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
-global.author = '𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
+global.packname = '© Kurokawa Zaka'
+global.author = 'Arwes'
 
 //—————「 Set Nama Session 」—————//
 global.sessionName = 'session'
