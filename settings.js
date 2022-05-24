@@ -39,7 +39,7 @@ global.packname = '© Bot 𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪�
 global.author = '𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
 
 //—————「 Set Nama Session 」—————//
-global.sessionName = 'chika'
+global.sessionName = 'session'
 
 //—————「 Set Limit 」—————//
 global.limitawal = {
