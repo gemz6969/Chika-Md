@@ -17,9 +17,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
+global.owner = ['6289670944589','6289670944589','6289670944589']
+global.premium = ['6289670944589']
+global.ownernomer = '6289670944589'
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = '𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
@@ -30,7 +30,7 @@ global.footer = '𝗦𐐼ׁ֪𝗹ꬺׁׁׅׅ𐐼𝗦ֺ𝘁o𝗿ᧉׁ֪𓂃'
 global.youtube = 'https://youtube.com/channel/UCClQKwFKgIAiqJPgPpzGjmA'
 global.ig = 'https://instagram.com/its.salma._?igshid=YmMyMTA2M2Y='
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
+global.myweb = 'https://instagram.com/its.salma._?igshid=YmMyMTA2M2Y='
 global.email = 'salmadiah15@gmail.com'
 global.region = 'indonesia'
 
@@ -49,7 +49,7 @@ free: 15,
 
 //—————「 Set Image 」—————//
 global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
