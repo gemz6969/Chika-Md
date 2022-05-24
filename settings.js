@@ -49,7 +49,7 @@ free: 15,
 
 //—————「 Set Image 」—————//
 global.thumb = fs.readFileSync('./image/chika.jpg')
-global.veloriy = fs.readFileSync('./image/chika.mp4')
+/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
