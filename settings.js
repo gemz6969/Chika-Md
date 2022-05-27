@@ -18,31 +18,31 @@ zenz: 'https://zenzapis.xyz',
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasPrdn',
+'https://zenzapis.xyz': 'bagasganz',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281263409730','6281263409730','6281263409730'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281263409730'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281263409730' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285939243969','6285939243969','6285939243969'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285939243969'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285939243969' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HAKIM' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'KIM BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HAKIM' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'BAGAS JB¹²' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'BOTZ GASZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'BAGAS JB¹²' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = '~'
-global.ig = '~'
+global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.ig = 'https://instagram.com/yougod.12'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = '~'
-global.email = 'lalahakim095@gmail.com'
+global.myweb = '@FF_BAGAS_STORE'
+global.email = 'bagasjb012@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© KIM BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'HAKIM' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© BOTZ GASZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'BAGAS JB¹²' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
