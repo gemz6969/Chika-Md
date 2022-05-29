@@ -13,7 +13,7 @@ zenz: 'https://zenzapis.xyz',
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
-'https://zenzapis.xyz': 'BagasPrdn',
+'https://zenzapis.xyz': 'BagasGanz',
 }
 
 //—————「 Setting Owner 」—————//
