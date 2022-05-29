@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ["6281313915758','6281313915758','6281313915758']
+global.owner = ['6281313915758','6281313915758','6281313915758']
 global.premium = ['6281313915758']
 global.ownernomer = '6281313915758'
 
