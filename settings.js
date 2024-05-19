@@ -17,13 +17,13 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281313915758','6281313915758','6281313915758']
-global.premium = ['6281313915758']
-global.ownernomer = '6281313915758'
+global.owner = ['6289699492207','6289699492207','6289699492207']
+global.premium = ['6289699492207']
+global.ownernomer = '6289699492207'
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Arwes'
-global.botname = 'Kurokawa Zaka'
+global.ownername = 'Gema_A.R'
+global.botname = 'Alice'
 global.footer = 'Arwes'
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
